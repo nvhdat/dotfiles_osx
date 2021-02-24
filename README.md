@@ -1,1 +1,1 @@
-# dotfiles_osx
+# dotfiles
