@@ -11,7 +11,5 @@ brew "git"
 cask "alfred"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
-# Git client focusing on productivity
-cask "gitkraken"
 # Open-source code editor
 cask "visual-studio-code"
