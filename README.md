@@ -9,4 +9,3 @@ dotfiles backup for osx
 - Finder Show Path Bar 
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (config and SSH)
-- Alfred (turn off Spotlight and use for Alfred)
