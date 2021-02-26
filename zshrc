@@ -8,7 +8,7 @@ alias ls='exa -laFh --git'
 alias exa='exa -laFh --git'
 alias man=batman
 alias cat=bat
-alias nano='nano -t'
+alias nano=/usr/local/bin/nano
 
 # PROMPT
 PROMPT='

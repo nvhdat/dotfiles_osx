@@ -11,6 +11,10 @@ brew "exa"
 brew "git"
 # Mac App Store command-line interface
 brew "mas"
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
+# Improved Nano Syntax Highlighting Files
+brew "nanorc"
 # Fish-like fast/unobtrusive autosuggestions for zsh
 brew "zsh-autosuggestions"
 # Bash scripts that integrate bat with various command-line tools

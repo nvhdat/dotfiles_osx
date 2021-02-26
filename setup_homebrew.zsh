@@ -11,3 +11,6 @@ echo "\n<<< Starting Homebrew Setup >>> \n"
 # https://github.com/Homebrew/homebrew-bundle/issues/474
 
 brew bundle --verbose
+
+# Setup nanorc
+echo "include $(brew --prefix nanorc)/share/nanorc/*.nanorc" >> ~/.nanorc
