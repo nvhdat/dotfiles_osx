@@ -7,9 +7,5 @@ brew "bat"
 brew "exa"
 # Distributed revision control system
 brew "git"
-# Application launcher and productivity software
-cask "alfred"
-# Client for the Dropbox cloud storage service
-cask "dropbox"
 # Open-source code editor
 cask "visual-studio-code"
