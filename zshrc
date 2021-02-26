@@ -18,3 +18,6 @@ RPROMPT='%L'
 function mkcd() {
 	mkdir -p "$@" && cd "$_";
 }
+
+# Install zsh-autosuggestions
+source ~/.dotfiles/autosuggestions.zsh
