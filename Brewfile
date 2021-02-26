@@ -1,5 +1,7 @@
+tap "eth-p/software"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 # Clone of cat(1) with syntax highlighting and Git integration
 brew "bat"
@@ -9,6 +11,8 @@ brew "exa"
 brew "git"
 # Mac App Store command-line interface
 brew "mas"
+# Bash scripts that integrate bat with various command-line tools
+brew "eth-p/software/bat-extras"
 # Team communication and collaboration software
 cask "slack"
 # Open-source code editor
