@@ -21,6 +21,8 @@ cask "slack"
 cask "visual-studio"
 # Open-source code editor
 cask "visual-studio-code"
+cask "xamarin-android"
+cask "xamarin-ios"
 mas "1Blocker", id: 1107421413
 mas "GIPHY CAPTURE", id: 668208984
 mas "LINE", id: 539883307
