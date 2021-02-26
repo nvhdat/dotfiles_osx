@@ -6,6 +6,7 @@ dotfiles backup for osx
 - Changed Shell to ZSH
 - Dock Preferences
 - Mission Control Preference (don't rearange spaces)
-- Finder Show Path Bar
+- Finder Show Path Bar 
 - Trackpad (Three Finger Drag and Tap to Click)
 - Git (config and SSH)
+- Alfred (turn off Spotlight and use for Alfred)
