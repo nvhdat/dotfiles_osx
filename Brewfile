@@ -11,6 +11,8 @@ brew "exa"
 brew "git"
 # Mac App Store command-line interface
 brew "mas"
+# Fish-like fast/unobtrusive autosuggestions for zsh
+brew "zsh-autosuggestions"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
 # Open source implementation of Microsoft's .NET Framework
