@@ -19,6 +19,8 @@ brew "nanorc"
 brew "zsh-autosuggestions"
 # Bash scripts that integrate bat with various command-line tools
 brew "eth-p/software/bat-extras"
+# Free and open-source image editor
+cask "gimp"
 # Open source implementation of Microsoft's .NET Framework
 cask "mono-mdk-for-visual-studio"
 # Team communication and collaboration software
